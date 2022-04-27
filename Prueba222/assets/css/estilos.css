@@ -1,0 +1,24 @@
+.nav-item{
+    background-color: lightgray;
+    color: red;
+    width: 30%;
+    float: left;
+    height: 300px;
+}
+
+.carousel{
+    width: 50%;
+    float: left;
+}
+
+header{
+    color: white;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.Formularioo{
+    background-color: lightgreen;
+    color: black;
+    width: 30%;
+}
